@@ -1,0 +1,45 @@
+package com.eebbk.studyos.viewanalysis.view.engine;
+/**
+ * @author Codefarmer@sina.com
+ */
+public enum ParamValue {
+	id,
+	layout_width,
+	layout_height,
+	orientation,
+	layout_centerHorizontal,
+	layout_centerVertical,
+	layout_below,
+	layout_above,
+	layout_toRightOf,
+	layout_toLeftOf,
+	layout_marginLeft,
+	layout_marginRight,
+	layout_marginTop,
+    layout_marginBottom,
+	layout_bottom,
+	layout_margin,
+	layout_gravity,
+	layout_alignParentRight,
+	layout_weight,
+	divider,
+	splitMotionEvents,
+	cacheColorHint,
+	verticalSpacing,
+	horizontalSpacing,
+	text,
+	ellipsize,
+	fadingEdge,
+	scrollHorizontally,
+	textColor,
+	textSize,
+	visibility,
+	background,
+	textStyle,
+	style,
+	src,
+	gravity,
+	numColumns,
+	contentDescription
+	;
+}

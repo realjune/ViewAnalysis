@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">weather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="automatic_position">自动定位</string>
+    <string name="city_list_null">城市数据为空</string>
+    <string name="search_more_city_name">搜索更多城市名</string>
+    <string name="no_internet_connection">网络无连接</string>
+    <string name="no_weather_you_want">没有你要的地区天气</string>
+    <string name="dateFormat">yyyy/MM/dd</string>
+    <string name="today"> 今天</string>
+    <string name="tomorrow"> 明天</string>
+    <string name="request_data_failed">当前网络连接差，数据请求失败</string>
+    <string name="monday">星期一</string>
+	<string name="tuesday">星期二</string>
+	<string name="wednesday">星期三</string>
+	<string name="thursday">星期四</string>
+	<string name="friday">星期五</string>
+	<string name="saturday">星期六</string>
+	<string name="sunday">星期日</string>
+	<string name="lockscreen_weather">锁屏天气</string>
+</resources>
